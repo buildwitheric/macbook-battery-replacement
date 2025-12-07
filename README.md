@@ -28,5 +28,3 @@ All images can be found in the images/ folder.
 
 📘 Summary
 This repair project reinforced key IT concepts such as hardware diagnostics, safe disassembly, component replacement, and verification testing. It also demonstrated the importance of methodical processes—skills that directly translate to IT support, device maintenance, and hands-on technical troubleshooting.
-
-Always learning. Always improving. 👨‍💻

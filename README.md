@@ -11,7 +11,6 @@ This project documents a hands-on hardware repair where I replaced the worn-out 
 - Verifying successful installation through post-repair testing and battery cycle count checks
 
 📸 Project Photos
-
 I’ve included images showcasing the full repair process, including:
 - Opening the device
 - Removing adhesive and the worn battery
